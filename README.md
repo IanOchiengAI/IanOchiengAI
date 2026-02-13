@@ -1,7 +1,7 @@
 # Hi, I'm Ian
 I see the web as digital real estate, and I help people and businesses claim their piece of it.
 
-For **individuals and SMEs**, I build premium, all-in-one platforms that act as a central hub for operations and identity. I believe everyone deserves a high-quality digital presence that simplifies their work and showcases their best self—made accessible without the enterprise cost.
+For **individuals and SMEs**, I build premium, all-in-one platforms that act as a central hub for operations and identity. I believe everyone deserves a high-quality digital presence that simplifies their work and showcases their best self, made accessible without the enterprise cost.
 
 For **AI**, I view it as the defining technology of our time. It is "fire from the gods," and I am deeply invested in mastering it—learning to control, steer, and apply this power to build transformative solutions.
 ### 🛠️ What I'm Building
