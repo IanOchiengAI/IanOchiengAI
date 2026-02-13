@@ -1,24 +1,14 @@
-### Hi there 👋, I'm Ian!
-
-I simlify AI for practical results. I specialize in turning manual processes and messy data into automated, intelligent systems using Large Language Models.
-
-**🚀 My Mission:** I solve real-world business problems to help companies save time, reduce costs, and become more efficient. I'm currently building a portfolio of high-impact proof-of-concept projects.
-
----
-
-### 🔧 My Portfolio Spotlight
-
-This is what I'm working on right now. Each project is designed to solve a specific, high-value business problem.
-
-| Project | Problem Solved | Status |
-|---|---|---|
-| 💎 **[Automated Meeting Summarizer](https://github.com/IanOchiengAI/project-meeting-summarizer)** | Turns messy meeting transcripts into clean summaries and actionable checklists. | ⏳ **In Progress** |
-| **Competitor Intelligence Briefer** | Scrapes competitor websites to create automated strategy and pricing reports. | 📋 **Planned** |
-| **Invoice Data Extractor** | Automates data entry from PDF invoices, reducing errors and saving time. | 📋 **Planned** |
-| **Secure Internal Knowledge Base** | Lets teams ask questions of their private documents securely, with 100% data privacy. | 📋 **Planned** |
-| **Customer Ticket Triage System**| Automatically categorizes support tickets and suggests replies to speed up response times. | 📋 **Planned** |
-
----
-
-*   📫 **How to reach me:** [ianochiengai@gmail.com] | [https://www.linkedin.com/in/ian-ochiengai/]
-*   📺 **See my work in action:** [https://www.youtube.com/@IanOchiengAI]
+# Hi, I'm Ian
+I see the web as digital real estate, and I help people and businesses claim their piece of it.
+For **individuals and SMEs**, I build premium, all-in-one platforms that act as a central hub for operations and identity. I believe everyone deserves a high-quality digital presence that simplifies their work and showcases their best self—made accessible without the enterprise cost.
+For **AI**, I view it as the defining technology of our time. It is "fire from the gods," and I am deeply invested in mastering it—learning to control, steer, and apply this power to build transformative solutions.
+### 🛠️ What I'm Building
+| Project | What it does | Status |
+| :--- | :--- | :--- |
+| **Wibo** | A business platform designed to streamline operations and enhance digital presence for local enterprises. | 🏗️ In Progress |
+| **[Zaidi Ya Misuli](https://zaidiyamisuli.org/)** | A community platform for sustainable development and resource accessibility. | 🚀 Live |
+| **[Ian Personal Website](https://ian-personal-website-mimi.vercel.app/#trajectory)** | My digital headquarters and portfolio. | 🚀 Live |
+### 📫 Reach Out
+- **Email**: [ianochiengai@gmail.com](mailto:ianochiengai@gmail.com)
+- **LinkedIn**: [linkedin.com/in/ian-ochiengai](https://www.linkedin.com/in/ian-ochiengai/)
+- **X**: [@IanOchiengAi](https://x.com/IanOchiengAi)
