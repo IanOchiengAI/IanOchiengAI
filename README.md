@@ -23,10 +23,11 @@ This is what I'm working on right now. Each project is designed to solve a solid
 
 | Project | What It Is | Status |
 | :--- | :--- | :--- |
-| **[Kodi Ya Kweli](https://github.com/IanOchiengAI/kodi-ya-kweli)** | A civic tech tool for Kenyan renters. Programmatic SEO estate cost-of-living index + a legal toolkit that auto-generates deposit recovery demand letters citing Kenyan rental law. | 🚧 **In Progress** |
+| **[Blackout Tracker](https://github.com/IanOchiengAI/blackout-tracker)** | A civic utility for Kenyan residents. Automatically parses KPLC planned outage PDFs and delivers instant alerts by zone via Telegram bot and PWA push — zero SMS cost. | 🚧 **In Progress** |
+| **[Kodi Ya Kweli](https://kodi-ya-kweli.vercel.app/)** | A civic tech tool for Kenyan renters. Programmatic SEO estate cost-of-living index + a legal toolkit that auto-generates deposit recovery demand letters citing Kenyan rental law. | ✅ **Shipped** |
 | **[Wibo](https://wibo-parts-hub.vercel.app)** | A business platform designed to streamline operations and enhance digital presence for local enterprises. | ✅ **Shipped** |
 | **[Zaidi Ya Misuli](https://zaidiyamisuli.org/)** | A community platform facilitating sustainable development and resource accessibility. | 🚀 **Live** |
-| **[Kasuku Studio](https://kasuku-studios.web.app/)** | A productised web agency building premium digital infrastructure and fixed-scope service packages. | 🚀 **Live** |
+| **[Kasuku Studio](https://kasuku-studios.web.app/)** | A productised web agency building premium digital infrastructure for Kenyan businesses. Clients include agri-tech firms, professional portfolios, wellness brands, and accounting practices. | 🚀 **Live** |
 
 ---
 ### 📊 GitHub Stats
