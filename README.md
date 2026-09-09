@@ -23,7 +23,8 @@ This is what I'm working on right now. Each project is designed to solve a solid
 
 | Project | What It Is | Status |
 | :--- | :--- | :--- |
-| **Wibo** | A business platform designed to streamline operations and enhance digital presence for local enterprises. | 🚧 **In Progress** |
+| **[Kodi Ya Kweli](https://github.com/IanOchiengAI/kodi-ya-kweli)** | A civic tech tool for Kenyan renters. Programmatic SEO estate cost-of-living index + a legal toolkit that auto-generates deposit recovery demand letters citing Kenyan rental law. | 🚧 **In Progress** |
+| **[Wibo](https://wibo-parts-hub.vercel.app)** | A business platform designed to streamline operations and enhance digital presence for local enterprises. | ✅ **Shipped** |
 | **[Zaidi Ya Misuli](https://zaidiyamisuli.org/)** | A community platform facilitating sustainable development and resource accessibility. | 🚀 **Live** |
 | **[Kasuku Studio](https://kasuku-studios.web.app/)** | A productised web agency building premium digital infrastructure and fixed-scope service packages. | 🚀 **Live** |
 
